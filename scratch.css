@@ -1,14 +1,17 @@
-p{
-    font-weight: bold;
-}
+
 
 #top {
     text-decoration: underline;
 }
 
-.emphasizedText { 
+.Header { 
     font-style: italic;
     color:brown;
+}
+
+.normal { 
+    font-style: oblique ;
+    color:darkmagenta
 }
 
 body{
